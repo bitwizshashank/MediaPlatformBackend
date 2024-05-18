@@ -1,4 +1,4 @@
-# Social Media Platform - MediaPlatformBackend
+# Social Media Platform Backend- MediaPlatformBackend
 
 A social media platform where users can register, create posts, follow other users, and view content feeds. This project uses Node.js, Express, MongoDB, and JWT for authentication.
 
